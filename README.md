@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noob</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliston-gomes&label=Profile%20views&color=0e75b6&style=flat" alt="aliston-gomes" /> </p>
-
 - 🔭 I’m currently working on [photos-by-aliston-gomes.vercel.app](photos-by-aliston-gomes.vercel.app)
 
 - 🌱 I’m currently learning **React**
