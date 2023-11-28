@@ -5,12 +5,16 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-[![Badge with SVG image](data:image/svg+xml;base64,)](https://your-badge-link.com)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=for-the-badge)
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
-[![My Custom Badge](https://badgen.net/badge/My%20Custom%20Badge/bl/white)](https://your-project-url.com)
+![Pinia](https://img.shields.io/badge/Pinia-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=FFD63A)
+![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+
+
+
+
 
 
 
@@ -27,13 +31,11 @@
 
 ## Projects
 
-### Photos By Aliston Gomes
+Photography Portfolio
 [Photos By Aliston Gomes](https://photos-by-aliston-gomes.vercel.app)
-Describe your project here. Include technologies used, challenges faced, and outcomes achieved.
-
+###
 ## Connect with Me
-- [LinkedIn](https://photos-by-aliston-gomes.vercel.app)
-- [Photography Portfolio](https://photos-by-aliston-gomes.vercel.app)
+- [Linkdin](https://www.linkedin.com/in/aliston-inas-gomes-637787230utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## My GitHub Stats
 ![Aliston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliston-gomes&show_icons=true&hide_title=true&hide_border=true)
