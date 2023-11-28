@@ -13,7 +13,7 @@ I'm a passionate software developer with expertise in web technologies. My journ
 
 ## Projects
 
-### Project 1
+### Photos By Aliston Gomes
 Describe your project here. Include technologies used, challenges faced, and outcomes achieved.
 
 ### Project 2
