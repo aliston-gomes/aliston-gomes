@@ -3,7 +3,11 @@
 ## About Me
 I'm a passionate software developer with expertise in web technologies. My journey in the world of coding has been exciting, and I love to explore new tools and technologies.
 
-- 💻 I'm proficient in: React, Vue.js, JavaScript
+- 💻 I'm proficient in:
+  - React.js <i class="fab fa-react"></i>
+  - Vue.js <i class="fab fa-vuejs"></i>
+  - JavaScript <i class="fab fa-js"></i>
+
 - 🌱 I’m currently learning: [Any technology or framework you are currently learning]
 - 📫 How to reach me: [Your email or other contact information]
 
