@@ -1,15 +1,7 @@
 # Hi there, I'm Aliston Gomes! 👋
-
-## About Me
-I'm a passionate software developer with expertise in web technologies. My journey in the world of coding has been exciting, and I love to explore new tools and technologies.
-
-- 💻 I'm proficient in:
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
-- 🌱 I’m currently learning: [Any technology or framework you are currently learning]
-- 📫 How to reach me: [Your email or other contact information]
 
 ## Projects
 
