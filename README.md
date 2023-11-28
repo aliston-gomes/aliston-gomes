@@ -3,9 +3,27 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+[![Badge with SVG image](data:image/svg+xml;base64,)](https://your-badge-link.com)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=for-the-badge)
+![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+[![My Custom Badge](https://badgen.net/badge/My%20Custom%20Badge/bl/white)](https://your-project-url.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Projects
 
