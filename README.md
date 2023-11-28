@@ -4,10 +4,10 @@
 I'm a passionate software developer with expertise in web technologies. My journey in the world of coding has been exciting, and I love to explore new tools and technologies.
 
 - 💻 I'm proficient in:
-  - React.js <i class="fab fa-react"></i>
-  - Vue.js <i class="fab fa-vuejs"></i>
-  - JavaScript <i class="fab fa-js"></i>
-![Tech Stack](https://img.shields.io/badge/%3Clink%20rel%3D%22stylesheet%22%20href%3D%22https%3A%2F%2Fcdnjs.cloudflare.com%2Fajax%2Flibs%2Ffont-awesome%2F6.0.0%2Fcss%2Fall.min.css%22%20integrity%3D%22sha512-...%22%20crossorigin%3D%22anonymous%22%20%2F%3E)
+  https://img.shields.io/badge/:badgeContent
+
+
+#61DAFB
 
 - 🌱 I’m currently learning: [Any technology or framework you are currently learning]
 - 📫 How to reach me: [Your email or other contact information]
