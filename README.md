@@ -41,5 +41,3 @@ Dev-Folio
 ## Connect with Me
 - [Linkdin](https://www.linkedin.com/in/aliston-inas-gomes-637787230utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-## My GitHub Stats
-![Aliston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliston-gomes&show_icons=true&hide_title=true&hide_border=true)
