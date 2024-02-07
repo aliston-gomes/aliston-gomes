@@ -1,4 +1,4 @@
-# Hello There,
+#Tech Stack,
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,nodejs,express,react,tailwind,vue,redux,cpp)](https://skillicons.dev)
 ## Projects
 
