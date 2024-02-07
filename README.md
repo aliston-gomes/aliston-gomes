@@ -9,6 +9,11 @@
     <img src="https://skillicons.dev/icons?i=js,py,cpp" />
   </a>
   </p>
+  <p align="start">    
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,express" />
+  </a>
+  </p>
   
 ## Projects
 Photography Portfolio
