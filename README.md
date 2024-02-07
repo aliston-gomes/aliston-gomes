@@ -1,22 +1,6 @@
 # Hello There,
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,ex)](https://skillicons.dev)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,nodejs,express,react,tailwind,vue.redux,cpp)](https://skillicons.dev)
+![logo](https://github.com/tandpfun/skill-icons/assets/112464730/6a411670-191a-416d-b261-0ef2c3090961)
 ## Projects
 
 Photography Portfolio
