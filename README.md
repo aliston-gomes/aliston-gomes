@@ -12,7 +12,7 @@
 ![Pinia](https://img.shields.io/badge/Pinia-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=FFD63A)
 ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps)](https://skillicons.dev)
 
 
 
