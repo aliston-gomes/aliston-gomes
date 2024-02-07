@@ -12,14 +12,14 @@
   </a>
 </p>
 
-## Ui Frameworks
+## Languages
   <p align="start">    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,cpp" />
   </a>
   </p>
   
-## Languages
+## Js Frameworks
   <p align="start">    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,express" />
