@@ -3,11 +3,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
+</p>
   ###
+  <p align="start">    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,cpp" />
   </a>
-</p>
+  </p>
 ## Projects
 
 Photography Portfolio
