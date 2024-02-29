@@ -29,7 +29,7 @@
 ## State Management/Event Bus
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pinia" />
+    <img src="https://skillicons.dev/icons?i=pinia,redux" />
   </a>
 </p>
 
