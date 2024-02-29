@@ -1,4 +1,4 @@
-## Markup and Style
+## Tech Stack
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,vuetify,js,py,react,vue,express,pinia,redux" />
