@@ -8,7 +8,7 @@
 ## Ui Frameworks
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,pinia" />
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify" />
   </a>
 </p>
 
