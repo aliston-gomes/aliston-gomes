@@ -1,35 +1,7 @@
 ## Markup and Style
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-
-## Ui Frameworks
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,materialui,vuetify" />
-  </a>
-</p>
-
-## Languages
-  <p align="start">    
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py" />
-  </a>
-  </p>
-  
-## Js Frameworks
-  <p align="start">    
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,express" />
-  </a>
-  </p>
-
-## State Management/Event Bus
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pinia,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,vuetify,js,py,react,vue,express,pinia,redux" />
   </a>
 </p>
 
