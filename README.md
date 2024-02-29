@@ -25,7 +25,14 @@
     <img src="https://skillicons.dev/icons?i=react,vue,express" />
   </a>
   </p>
-  
+
+## State Management/Event Bus
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pinia" />
+  </a>
+</p>
+
 ## Projects
 Photography Portfolio
 [Photos By Aliston Gomes](https://photos-by-aliston-gomes.vercel.app)
