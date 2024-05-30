@@ -1,7 +1,7 @@
 ## Tech Stack
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,express,pinia,redux,tailwind,materialui,vuetify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,express,pinia,redux,tailwind,materialui,vuetify,mongodb,mysql" />
   </a>
 </p>
 
