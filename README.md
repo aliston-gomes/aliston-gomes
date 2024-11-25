@@ -1,6 +1,6 @@
 ## Tech Stack
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,express,pinia,redux,tailwind,materialui,vuetify,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,pinia,redux,tailwind,materialui,vuetify,mongodb,mysql" />
 </p>
 
 ## Projects
