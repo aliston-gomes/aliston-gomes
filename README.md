@@ -12,4 +12,8 @@ Dev-Folio
 ###
 ## Get In Touch 
 - [Linkdin](https://www.linkedin.com/in/aliston-inas-gomes-637787230utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+### My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliston4&show_icons=true&count_private=true&include_all_commits=true)
+
+![Total Commits](https://komarev.com/ghpvc/?username=aliston4&label=Commits&color=blue&style=flat-square)
 
